@@ -40,6 +40,9 @@ anerkennen
 fassen
 seitens
 Hebung
-
+im Ernst
+erfreut
+erfüllen/auffüllen/ausfüllen
+meine Angetraute
 
 ![[HTML_element_content_categories.svg]]
