@@ -44,5 +44,7 @@ im Ernst
 erfreut
 erfüllen/auffüllen/ausfüllen
 meine Angetraute
+verorten
+gezielt
 
 ![[HTML_element_content_categories.svg]]
