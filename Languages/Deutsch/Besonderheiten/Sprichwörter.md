@@ -1,0 +1,13 @@
+- deine Worte in Gottes Ohr.
+- Es ist noch kein Meister vom Himmel gefallen.
+- Du willst mich doch verarschen.
+- Jedem das Seine.
+- Jeder lobt das Seine
+- Kein Anschiss ist Lob genug.
+	- Nicht geschimpft ist Lob genug.
+- ein waschechter Berliner
+- Was du heute kannst besorgen, das verschiebe nicht auf morgen.
+- Morgen, morgen nur nicht heute, sagen alle faulen Leute.
+	- ! Sprechen immer träge Leute.
+- Draußen regnet es Bindfäden.
+- **Der Fisch stinkt vom Kopf** -- Macht der Kopf, also die Führung, in der Wirtschaft oder der Politik schwerwiegende Fehler.

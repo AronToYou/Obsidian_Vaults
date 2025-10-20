@@ -1,0 +1,3 @@
+[submodule "Obsidian_Vault"]
+	path = Obsidian_Vault
+	url = git@github.com:AronToYou/Obsidian_Vault
