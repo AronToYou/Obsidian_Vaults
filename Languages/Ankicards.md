@@ -72,6 +72,8 @@ fraglich
 abartig
 abkriegen
 rasen
+zurückkehren
+reumütig
 
 ![[HTML_element_content_categories.svg]]
 auf ihn zu / vom Sprecher weg
@@ -83,6 +85,8 @@ aus meiner Sicht
 klappt es normalerweise
 nicht geregelt
 Warst du schon mal bei
+Bei ... ist zu beachten, daß ...
+... ist darauf zurückzuführen, daß ...
 
 
 das Geriesel
