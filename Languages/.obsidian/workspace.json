@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prüfungsvorbereitung.md",
+                "file": "Ankicards.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prüfungsvorbereitung"
+              "title": "Ankicards"
             }
           },
           {
@@ -183,8 +183,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "6ce85857d05fa756",
+  "active": "5dd8b63a0d6eb8a3",
   "lastOpenFiles": [
+    "Prüfungsvorbereitung.md",
     "_media/ultramarin/Presentation/huggingFace/🤗 Transformers.pdf",
     "_media/ultramarin/Presentation/huggingFace/Time Series Transformer.pdf",
     "_media/ultramarin/Presentation/huggingFace",
@@ -195,7 +196,6 @@
     "_media/ultramarin/Presentation/extra/PredSVM.pdf",
     "_media/ultramarin/Presentation/extra/NeurIPS-2018-parsimonious-quantile-regression-of-financial-asset-tail-dynamics-via-sequential-learning-Paper.pdf",
     "_media/ultramarin/Presentation/extra/GandhiSVM.pdf",
-    "_media/ultramarin/Presentation/extra",
     "_media/ultramarin/Presentation/Other Words.md",
     "_media/img/svg/LAMP_software_bundle.svg",
     "_media/img/svg/HTML_element_content_categories.svg",

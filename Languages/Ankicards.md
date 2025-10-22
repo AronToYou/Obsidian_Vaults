@@ -44,5 +44,7 @@ im Ernst
 erfreut
 erfüllen/auffüllen/ausfüllen
 meine Angetraute
+ab-/ver-/weg-/zu-/schicken/-senden
+hindeuten
 
 ![[HTML_element_content_categories.svg]]
