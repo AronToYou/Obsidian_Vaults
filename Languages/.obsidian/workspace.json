@@ -49,8 +49,7 @@
               "title": "Substantive"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,8 +197,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "851580244414d5bb",
+  "active": "5dd8b63a0d6eb8a3",
   "lastOpenFiles": [
+    "Deutsch/Wortgrammatik/Substantive.md",
     "Ankicards.md",
     "Prüfungsvorbereitung.md",
     "_media/ultramarin/Presentation/huggingFace/🤗 Transformers.pdf",
@@ -238,7 +238,6 @@
     "Deutsch/Wortgrammatik/Verhältniswörter.md",
     "Deutsch/Wortgrammatik/Umstandswörter.md",
     "Deutsch/Wortgrammatik/Tätigkeitswörter.md",
-    "Deutsch/Wortgrammatik/Substantive.md",
     "Deutsch/Wortgrammatik/Pronomen.md",
     "Deutsch/Wortgrammatik/Geschlecht von Wörter.md",
     "Deutsch/Satzgrammatik/Ausdrücke von Zeiträumen.md",

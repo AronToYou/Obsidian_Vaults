@@ -26,7 +26,7 @@ verwaist
 knitterig
 aufzeigen
 Anwender
-abstellen
+abstellen - unset / switch off
 abbauen <--> aufbauen
 der Haufen, der Mist
 mitsamt
@@ -74,6 +74,23 @@ abkriegen
 rasen
 zurückkehren
 reumütig
+aufweisen - exhibit
+vernachlässigen / unterlassen - disregard / neglect
+nachvollziehen
+einbeziehen - include
+anstreben / abzielen - (aim at) strive for / drive at
+der Umgang - dealings { (Erfahrung) im Umgang mit Menschen (haben) ist er stets liebenswürdig }
+( infolge / (*dat.*) zufolge ) (*gen.*) - as a result of / according to 
+entgegensetzen / gegenüberstellen - oppose / contrast, compare
+Gleichgültigkeit - indifference
+Blamage
+schummeln / mogeln
+deuten / Deutung - interpret / -ation
+(heillos) überfordern
+gewährleisten - guarantee
+gestalten - present itself / form / render
+
+
 
 ![[HTML_element_content_categories.svg]]
 auf ihn zu / vom Sprecher weg
@@ -87,6 +104,14 @@ nicht geregelt
 Warst du schon mal bei
 Bei ... ist zu beachten, daß ...
 ... ist darauf zurückzuführen, daß ...
+mit aufnehmen - include
+Daraus (ergibt sich) geht hervor, daß ... / Was ist (folgt) daraus entstanden? / ich folgere daraus, daß ...
+Schreib's auf'n Deckel! - Schreib es mir an.
+jemandem auf der Nase herumtanzen - sich frech verhält / Befehle missachtet.
+eh und je - schon immer
+gang und gäbe - gehend and gegeben\* / weit verbreitet / alltäglich / üblich / gebräuchlich
+mir geht *etwas* auf den Nerven - annoy like shit
+mir geht *etwas* unter die Haut - starke Gefühle auslösen
 
 
 das Geriesel
@@ -94,3 +119,8 @@ der Dunst
 die Landkarte / Mappe / Akte
 ausklingen
 der Käfig
+das Nachschlaggewerk - reference book
+patent / tüchtig
+entziffern - decipher
+hinblättern - shell out / pay
+das Ballungsgebiet - metropolitan area
